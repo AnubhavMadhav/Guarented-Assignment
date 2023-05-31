@@ -23,9 +23,6 @@ Cloud Service: Backblaze
 
 ---
 
-## Demo Video: [Watch Here](https://drive.google.com/file/d/1UPrEVpTlDTWMw0zLZNLI4spf8uuK6YC7/view?usp=sharing)
----
-
 ## **How to use**: 
 ### - Clone this repository on your local system.
 ### - `cd` to this project directory.
